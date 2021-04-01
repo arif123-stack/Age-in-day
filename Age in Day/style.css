@@ -1,0 +1,47 @@
+.tasleem{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align:center;
+}
+#arif{
+    display:inline-block;
+    padding: 20px 25px;
+    font-size:20px;
+    cursor:pointer;
+    text-align: centre;
+    text-decoration: none;
+    outline: none;
+   background-color: #0000FF;
+    color:#fff;
+    border:none;
+    border-radius: 15px;
+
+}
+
+#aftab{
+    display:inline-block;
+    padding: 20px 25px;
+    font-size:20px;
+    cursor:pointer;
+    text-align: centre;
+    text-decoration: none;
+    outline: none;
+   background-color: red;
+    color:#fff;
+    border:none;
+    border-radius: 15px;
+
+
+}
+.box1{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.box1 div{
+    padding: 10px;
+    border: 1px solid black;
+}
